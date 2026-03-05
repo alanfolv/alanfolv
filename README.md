@@ -23,7 +23,7 @@
 
 
 <div align="center" width="100%">
-   <p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=0721F7&center=true&width=435&lines=I'm+student+of+computer+science.;I'm+from+Brazil.;Be+Welcome+!" alt="Typing SVG"/></p>
+   <p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=993399&center=true&width=435&lines=I'm+student+of+computer+science.;I'm+from+Brazil.;Be+Welcome+!" alt="Typing SVG"/></p>
 </div>
 
 <br>
